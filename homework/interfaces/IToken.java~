@@ -3,6 +3,7 @@ package homework.interfaces;
 /**
  * Abstract way to store a symbol from a command.
  *
+ * @author Laurentiu Stamate
  */
 public interface IToken {
   /**

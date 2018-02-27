@@ -4,6 +4,8 @@ import homework.interfaces.IToken;
 
 /**
  * Interface for the Brackets Singleton Factory.
+ *
+ * @author Laurentiu Stamate
  */
 public interface IBracketsFactory {
   /**

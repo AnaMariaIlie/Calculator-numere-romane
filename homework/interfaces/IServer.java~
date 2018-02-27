@@ -6,6 +6,7 @@ import java.util.List;
 /**
  * Abstract way to handle the server.
  *
+ * @author Laurentiu Stamate
  */
 public interface IServer {
 

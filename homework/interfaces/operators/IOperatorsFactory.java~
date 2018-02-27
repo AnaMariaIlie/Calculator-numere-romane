@@ -5,6 +5,7 @@ import homework.interfaces.IToken;
 /**
  * Interface for the Operators Singleton Factory.
  *
+ * @author Laurentiu Stamate
  */
 public interface IOperatorsFactory {
   /**
