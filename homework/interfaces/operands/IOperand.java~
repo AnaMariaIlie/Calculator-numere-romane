@@ -6,6 +6,7 @@ import homework.interfaces.IToken;
  * Interface used to specify that
  * a certain token is an operand.
  *
+ * @author Laurentiu Stamate
  */
 public interface IOperand<T extends Number> extends IToken {
   /**

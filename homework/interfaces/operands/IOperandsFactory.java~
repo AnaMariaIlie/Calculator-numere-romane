@@ -3,6 +3,7 @@ package homework.interfaces.operands;
 /**
  * Interface for the Operands Singleton Factory.
  *
+ * @author Laurentiu Stamate
  */
 public interface IOperandsFactory<T extends Number> {
   /**
